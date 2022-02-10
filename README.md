@@ -9,4 +9,4 @@ Under Related topics select "Top"
 
 Date of plot: 02/09/2022
 
-*Note: Regarding spirit “store”, I want to clarify that under google trends page, at top related topics, spirit is actually searched as a beverage type, not necessarily a story name.
+*Note: Regarding spirit “store”, I want to clarify that under google trends page, at top related topics, spirit is actually searched as a beverage type, not necessarily a store name.
